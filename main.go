@@ -1,7 +1,7 @@
 // Launch microservice server- main.go
 package main
 import (
-	"github.com/Adn02/CloudNativeCourse/lab11/github-action/microservice"
+	"github.com/Adn02/github-action/microservice"
 	"log"
 )
 func main() {
